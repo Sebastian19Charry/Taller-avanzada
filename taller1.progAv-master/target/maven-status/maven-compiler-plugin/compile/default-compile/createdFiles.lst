@@ -1,0 +1,16 @@
+edu\progAvUD\taller1\modelo\Bucket.class
+edu\progAvUD\taller1\modelo\Combo.class
+edu\progAvUD\taller1\modelo\Datafono.class
+edu\progAvUD\taller1\modelo\PagoTarjeta.class
+edu\progAvUD\taller1\vista\VistaQuiosco.class
+edu\progAvUD\taller1\modelo\Pedido.class
+edu\progAvUD\taller1\modelo\Pago.class
+edu\progAvUD\taller1\modelo\ProductoIndividual.class
+edu\progAvUD\taller1\vista\PanelCarrito.class
+edu\progAvUD\taller1\vista\PanelFactura.class
+edu\progAvUD\taller1\control\Main.class
+edu\progAvUD\taller1\control\Controlador.class
+edu\progAvUD\taller1\modelo\Factura.class
+edu\progAvUD\taller1\modelo\Producto.class
+edu\progAvUD\taller1\control\CatalogoProductos.class
+edu\progAvUD\taller1\modelo\Usuario.class
